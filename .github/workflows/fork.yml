@@ -4,6 +4,7 @@ jobs:
   Explore-GitHub-Actions:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v2
       - run: mkdir ${{ github.actor }}
       - name: List files in the repository github.workspace
         run: |
