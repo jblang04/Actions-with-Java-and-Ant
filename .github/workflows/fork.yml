@@ -1,0 +1,11 @@
+name: Crear directorio del alumno
+on: fork
+jobs:
+  Explore-GitHub-Actions:
+    runs-on: ubuntu-latest
+    steps:
+      - run: mkdir ${{ github.actor }}
+      - name: List files in the repository github.workspace
+        run: |
+          ls ${{ github.workspace }}
+      - run: echo "🍏 This job's status is ${{ job.status }}. job.status"
