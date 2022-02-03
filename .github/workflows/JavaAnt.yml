@@ -13,7 +13,7 @@ jobs:
           distribution: 'adopt'
       - run: cd AntJUnitTest && ls -r    
       - name: Build with Ant     
-        run: ant -noinput -buildfile build.xml
+        run: ant -noinput -buildfile AntJUnitTest/build.xml
         #Guardar los resultados
       - uses: actions/upload-artifact@v2
         with:
