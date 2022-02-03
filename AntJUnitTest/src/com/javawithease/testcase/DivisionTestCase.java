@@ -12,10 +12,11 @@ public class DivisionTestCase {
 	//DivisionTest class objects
 	DivisionTest divisionTest1 = new DivisionTest(10, 2); 
 	DivisionTest divisionTest2 = new DivisionTest(10, 0); 
+	DivisionTest divisionTest3 = new DivisionTest(6, 2); 
 	
 	//Test case for division
 	@Test
-	public void test() {
+	public void testOk1() {
 		assertEquals(5, divisionTest1.division());
 	}
 	
@@ -26,5 +27,17 @@ public class DivisionTestCase {
 	@Test(expected = ArithmeticException.class)  
 	public void testException() {
 		assertEquals(5, divisionTest2.division());
+	}
+		
+	//Test case for division
+	@Test
+	public void testOk2() {
+		assertEquals(3, divisionTest3.division());
+	}
+	
+		//Test case for division
+	@Test
+	public void testFail() {
+		assertEquals(5, divisionTest3.division());
 	}
 }
