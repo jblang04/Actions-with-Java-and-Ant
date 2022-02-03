@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <!-- Set the project name, basedir and default target to be executed-->
+<project name="Ant-JUnit-Test" default="mainTarget" basedir=".">
+	
+	<!-- Set the classpath-->
+	<path id="junit.classpath">
+	   <pathelement location="lib/junit4-4.8.2.jar" />
+	 </path>
+	
+	<!-- Target for running the junit test case-->
+	<target name="junit">
+	  <junit haltonfailure="true" printsummary="true">	   
+	  	<classpath refid="junit.classpath" />
+	  	<test name="com.javawithease.testcase.DivisionTestCase"/>
+	  </junit>
+	</target>
+
+    <!-- Defualt target to run all targets-->
+    <target name="mainTarget" depends="junit">
+      <description>Main target</description>
+    </target>
+
+</project> 

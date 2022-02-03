@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="1" failures="0" hostname="jagpal-PC" name="com.javawithease.testcase.DivisionTestCase" tests="1" time="0.0" timestamp="2014-12-11T12:48:46">
+  <properties>
+    <property name="ant.project.invoked-targets" value="mainTarget" />
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment" />
+    <property name="sun.boot.library.path" value="C:\Users\jagpal\AppData\Local\MyEclipse\Common\binary\com.sun.java.jdk.win32.x86_64_1.6.0.013\jre\bin" />
+    <property name="java.vm.version" value="11.3-b02" />
+    <property name="ant.library.dir" value="C:\Users\jagpal\AppData\Local\MyEclipse\Common\plugins\org.apache.ant_1.8.2.v20120109-1030\lib" />
+    <property name="ant.version" value="Apache Ant(TM) version 1.8.2 compiled on December 20 2010" />
+    <property name="ant.java.version" value="1.6" />
+    <property name="java.vm.vendor" value="Sun Microsystems Inc." />
+    <property name="java.vendor.url" value="http://java.sun.com/" />
+    <property name="path.separator" value=";" />
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM" />
+    <property name="file.encoding.pkg" value="sun.io" />
+    <property name="user.country" value="IN" />
+    <property name="sun.java.launcher" value="SUN_STANDARD" />
+    <property name="sun.os.patch.level" value="Service Pack 1" />
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
+    <property name="user.dir" value="D:\TestWorkspace\AntJUnitTest" />
+    <property name="java.runtime.version" value="1.6.0_13-b03" />
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment" />
+    <property name="eclipse.pdebuild.scripts" value="/C:/Users/jagpal/AppData/Local/MyEclipse/Common/plugins/org.eclipse.pde.build_3.7.0.v20111116-2009/scripts/" />
+    <property name="basedir" value="D:\TestWorkspace\AntJUnitTest" />
+    <property name="java.endorsed.dirs" value="C:\Users\jagpal\AppData\Local\MyEclipse\Common\binary\com.sun.java.jdk.win32.x86_64_1.6.0.013\jre\lib\endorsed" />
+    <property name="os.arch" value="amd64" />
+    <property name="ant.project.default-target" value="mainTarget" />
+    <property name="java.io.tmpdir" value="C:\Users\jagpal\AppData\Local\Temp\" />
+    <property name="ant.core.lib" value="C:\Users\jagpal\AppData\Local\MyEclipse\Common\plugins\org.apache.ant_1.8.2.v20120109-1030\lib\ant.jar" />
+    <property name="line.separator" value="&#xd;&#xa;" />
+    <property name="java.vm.specification.vendor" value="Sun Microsystems Inc." />
+    <property name="user.variant" value="" />
+    <property name="os.name" value="Windows Vista" />
+    <property name="ant.home" value="C:\Users\jagpal\AppData\Local\MyEclipse\Common\plugins\org.apache.ant_1.8.2.v20120109-1030" />
+    <property name="eclipse.pdebuild.templates" value="/C:/Users/jagpal/AppData/Local/MyEclipse/Common/plugins/org.eclipse.pde.build_3.7.0.v20111116-2009/templates/" />
+    <property name="ant.project.name" value="Ant-JUnit-Test" />
+    <property name="sun.jnu.encoding" value="Cp1252" />
+    <property name="eclipse.pdebuild.home" value="/C:/Users/jagpal/AppData/Local/MyEclipse/Common/plugins/org.eclipse.pde.build_3.7.0.v20111116-2009/./" />
+    <property name="java.library.path" value="C:\Users\jagpal\AppData\Local\MyEclipse\Common\binary\com.sun.java.jdk.win32.x86_64_1.6.0.013\bin;.;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;D:\OraHome_3\jre\1.4.2\bin\client;D:\OraHome_3\jre\1.4.2\bin;D:\OraHome_2\jre\1.4.2\bin\client;D:\OraHome_2\jre\1.4.2\bin;D:\OraHome_1\jre\1.4.2\bin\client;D:\OraHome_1\jre\1.4.2\bin;C:\Program Files\Common Files\Microsoft Shared\Windows Live;C:\Program Files (x86)\Common Files\Microsoft Shared\Windows Live;c:\Program Files (x86)\AMD APP\bin\x86_64;c:\Program Files (x86)\AMD APP\bin\x86;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;c:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files\Dell\Dell Data Protection\Access\Advanced\Wave\Gemalto\Access Client\v5\;C:\Program Files (x86)\NTRU Cryptosystems\NTRU TCG Software Stack\bin\;C:\Program Files\NTRU Cryptosystems\NTRU TCG Software Stack\bin\;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files\TortoiseSVN\bin;C:\Program Files\Java\jdk1.6.0_35\bin;C:\Program Files\Java\jre6\bin;C:\Users\jagpal\AppData\Local\MyEclipse\MyEclipse 10\configuration\org.eclipse.osgi\bundles\885\1\.cp" />
+    <property name="java.class.version" value="50.0" />
+    <property name="java.specification.name" value="Java Platform API Specification" />
+    <property name="ant.file.Ant-JUnit-Test" value="D:\TestWorkspace\AntJUnitTest\build.xml" />
+    <property name="test.report.dir" value="D:\TestWorkspace\AntJUnitTest\testreport" />
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Server Compiler" />
+    <property name="os.version" value="6.1" />
+    <property name="ant.file" value="D:\TestWorkspace\AntJUnitTest\build.xml" />
+    <property name="user.home" value="C:\Users\jagpal" />
+    <property name="user.timezone" value="" />
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob" />
+    <property name="java.specification.version" value="1.6" />
+    <property name="ant.file.type.Ant-JUnit-Test" value="file" />
+    <property name="file.encoding" value="Cp1252" />
+    <property name="java.class.path" value="C:\Users\jagpal\AppData\Local\MyEclipse\Common\plugins\org.apache.ant_1.8.2.v20120109-1030\lib\ant-antlr.jar;C:\Users\jagpal\AppData\Local\MyEclipse\Common\plugins\org.apache.ant_1.8.2.v20120109-1030\lib\ant-apache-bcel.jar;C:\Users\jagpal\AppData\Local\MyEclipse\Common\plugins\org.apache.ant_1.8.2.v20120109-1030\lib\ant-apache-bsf.jar;C:\Users\jagpal\AppData\Local\MyEclipse\Common\plugins\org.apache.ant_1.8.2.v20120109-1030\lib\ant-apache-log4j.jar;C:\Users\jagpal\AppData\Local\MyEclipse\Common\plugins\org.apache.ant_1.8.2.v20120109-1030\lib\ant-apache-oro.jar;C:\Users\jagpal\AppData\Local\MyEclipse\Common\plugins\org.apache.ant_1.8.2.v20120109-1030\lib\ant-apache-regexp.jar;C:\Users\jagpal\AppData\Local\MyEclipse\Common\plugins\org.apache.ant_1.8.2.v20120109-1030\lib\ant-apache-resolver.jar;C:\Users\jagpal\AppData\Local\MyEclipse\Common\plugins\org.apache.ant_1.8.2.v20120109-1030\lib\ant-apache-xalan2.jar;C:\Users\jagpal\AppData\Local\MyEclipse\Common\plugins\org.apache.ant_1.8.2.v20120109-1030\lib\ant-commons-logging.jar;C:\Users\jagpal\AppData\Local\MyEclipse\Common\plugins\org.apache.ant_1.8.2.v20120109-1030\lib\ant-commons-net.jar;C:\Users\jagpal\AppData\Local\MyEclipse\Common\plugins\org.apache.ant_1.8.2.v20120109-1030\lib\ant-jai.jar;C:\Users\jagpal\AppData\Local\MyEclipse\Common\plugins\org.apache.ant_1.8.2.v20120109-1030\lib\ant-javamail.jar;C:\Users\jagpal\AppData\Local\MyEclipse\Common\plugins\org.apache.ant_1.8.2.v20120109-1030\lib\ant-jdepend.jar;C:\Users\jagpal\AppData\Local\MyEclipse\Common\plugins\org.apache.ant_1.8.2.v20120109-1030\lib\ant-jmf.jar;C:\Users\jagpal\AppData\Local\MyEclipse\Common\plugins\org.apache.ant_1.8.2.v20120109-1030\lib\ant-jsch.jar;C:\Users\jagpal\AppData\Local\MyEclipse\Common\plugins\org.apache.ant_1.8.2.v20120109-1030\lib\ant-junit.jar;C:\Users\jagpal\AppData\Local\MyEclipse\Common\plugins\org.apache.ant_1.8.2.v20120109-1030\lib\ant-junit4.jar;C:\Users\jagpal\AppData\Local\MyEclipse\Common\plugins\org.apache.ant_1.8.2.v20120109-1030\lib\ant-launcher.jar;C:\Users\jagpal\AppData\Local\MyEclipse\Common\plugins\org.apache.ant_1.8.2.v20120109-1030\lib\ant-netrexx.jar;C:\Users\jagpal\AppData\Local\MyEclipse\Common\plugins\org.apache.ant_1.8.2.v20120109-1030\lib\ant-swing.jar;C:\Users\jagpal\AppData\Local\MyEclipse\Common\plugins\org.apache.ant_1.8.2.v20120109-1030\lib\ant-testutil.jar;C:\Users\jagpal\AppData\Local\MyEclipse\Common\plugins\org.apache.ant_1.8.2.v20120109-1030\lib\ant.jar;C:\Users\jagpal\AppData\Local\MyEclipse\MyEclipse 10\configuration\org.eclipse.osgi\bundles\313\1\.cp\lib\antdebug.jar;C:\Users\jagpal\AppData\Local\MyEclipse\MyEclipse 10\configuration\org.eclipse.osgi\bundles\313\1\.cp\lib\remote.jar;C:\Users\jagpal\AppData\Local\MyEclipse\MyEclipse 10\configuration\org.eclipse.osgi\bundles\314\1\.cp\lib\remoteAnt.jar;C:\Users\jagpal\AppData\Local\MyEclipse\Common\binary\com.sun.java.jdk.win32.x86_64_1.6.0.013\lib\tools.jar;C:\Users\jagpal\AppData\Local\MyEclipse\Common\plugins\org.eclipse.swt.win32.win32.x86_64_3.7.2.v3740f.jar;C:\Users\jagpal\AppData\Local\MyEclipse\Common\plugins\com.genuitec.javascript.debug.mozilla_9.0.0.me201211011550.jar" />
+    <property name="user.name" value="jagpal" />
+    <property name="java.vm.specification.version" value="1.0" />
+    <property name="java.home" value="C:\Users\jagpal\AppData\Local\MyEclipse\Common\binary\com.sun.java.jdk.win32.x86_64_1.6.0.013\jre" />
+    <property name="sun.arch.data.model" value="64" />
+    <property name="user.language" value="en" />
+    <property name="java.specification.vendor" value="Sun Microsystems Inc." />
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit" />
+    <property name="java.vm.info" value="mixed mode" />
+    <property name="java.version" value="1.6.0_13" />
+    <property name="java.ext.dirs" value="C:\Users\jagpal\AppData\Local\MyEclipse\Common\binary\com.sun.java.jdk.win32.x86_64_1.6.0.013\jre\lib\ext;C:\Windows\Sun\Java\lib\ext" />
+    <property name="sun.boot.class.path" value="C:\Users\jagpal\AppData\Local\MyEclipse\Common\binary\com.sun.java.jdk.win32.x86_64_1.6.0.013\jre\lib\resources.jar;C:\Users\jagpal\AppData\Local\MyEclipse\Common\binary\com.sun.java.jdk.win32.x86_64_1.6.0.013\jre\lib\rt.jar;C:\Users\jagpal\AppData\Local\MyEclipse\Common\binary\com.sun.java.jdk.win32.x86_64_1.6.0.013\jre\lib\sunrsasign.jar;C:\Users\jagpal\AppData\Local\MyEclipse\Common\binary\com.sun.java.jdk.win32.x86_64_1.6.0.013\jre\lib\jsse.jar;C:\Users\jagpal\AppData\Local\MyEclipse\Common\binary\com.sun.java.jdk.win32.x86_64_1.6.0.013\jre\lib\jce.jar;C:\Users\jagpal\AppData\Local\MyEclipse\Common\binary\com.sun.java.jdk.win32.x86_64_1.6.0.013\jre\lib\charsets.jar;C:\Users\jagpal\AppData\Local\MyEclipse\Common\binary\com.sun.java.jdk.win32.x86_64_1.6.0.013\jre\classes" />
+    <property name="java.vendor" value="Sun Microsystems Inc." />
+    <property name="file.separator" value="\" />
+    <property name="java.vendor.url.bug" value="http://java.sun.com/cgi-bin/bugreport.cgi" />
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle" />
+    <property name="sun.cpu.endian" value="little" />
+    <property name="sun.desktop" value="windows" />
+    <property name="sun.cpu.isalist" value="amd64" />
+  </properties>
+  <error message="com.javawithease.testcase.DivisionTestCase" type="java.lang.ClassNotFoundException">java.lang.ClassNotFoundException: com.javawithease.testcase.DivisionTestCase
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:252)
+	at java.lang.ClassLoader.loadClassInternal(ClassLoader.java:320)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:247)
+	at org.eclipse.ant.internal.launching.remote.EclipseDefaultExecutor.executeTargets(EclipseDefaultExecutor.java:32)
+	at org.eclipse.ant.internal.launching.remote.InternalAntRunner.run(InternalAntRunner.java:424)
+	at org.eclipse.ant.internal.launching.remote.InternalAntRunner.main(InternalAntRunner.java:138)
+</error>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
