@@ -11,7 +11,7 @@ jobs:
         with:
           java-version: '11'
           distribution: 'adopt'
-      - run: ls -r    
+      - run: cd AntJUnitTest && ls -r    
       - name: Build with Ant     
         run: ant -noinput -buildfile build.xml
         #Guardar los resultados
