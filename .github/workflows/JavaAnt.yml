@@ -11,7 +11,8 @@ jobs:
         with:
           java-version: '11'
           distribution: 'adopt'
-      - name: Build with Ant
+      - run: ls -r    
+      - name: Build with Ant     
         run: ant -noinput -buildfile build.xml
         #Guardar los resultados
       - uses: actions/upload-artifact@v2
